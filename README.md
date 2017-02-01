@@ -21,13 +21,12 @@ Structural variants called using speedseq from Ashkenazim trio son sample sequen
 ## CoriellIndex_S1.vcf.gz
 Single nucleotide variants called using speedseq from Ashkenazim trio son sample sequenced in Genomics Core Facility, University of Bergen, Norway.
 
-#### Details for Coriell Ashkenazim trio samples:
+### Details for Coriell Ashkenazim trio samples:
 Ashkenazim father-mother-son trio from personal genome project:
 
 Candidate NIST RMs 8391 (son only) and 8392 (entire trio):
 
 www.tinyurl.com/giabajson
-
 www.tinyurl.com/giabajtrio
 
 NIST IDs: HG002/HG003/HG004 (Son/Father/Mother)
