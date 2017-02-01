@@ -56,6 +56,8 @@ Output of RareVariantVis for NA12891 sample - father of NA12878 - structural var
 Output of RareVariantVis for NA12892 sample - mother of NA12878 - structural variants.
 
 ## UCSC_hg19_refSeq_160702.txt
+RefSeq annotation table that includes exon start and end positions, cds, strands and protein IDs.
+Downloaded from UCSC Table Browser - http://genome.ucsc.edu/cgi-bin/hgTables
 
 ## nexterarapidcapture_exome_targetedregions_v1.2.bed
 Illumina Nextera capture kit bed file which could be useful when running RareVariantVis on exome data. Could be alternatively replaced with other transcriptome bed files, depending on user needs.
