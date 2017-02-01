@@ -16,37 +16,38 @@ Hg19 centromere positions downloaded from UCSC table browser - All Tables - tabl
 https://genome.ucsc.edu/cgi-bin/hgTables
 
 ## CoriellIndex_S1.sv.vcf.gz
-Structural variants called using speedseq from Ashkenazim trio son sample sequenced in Genomics Core Facility, University of Bergen, Norway. Details regarding sample are given in CoriellIndex_S1.vcf.gz section.
+Structural variants called using speedseq from Coriell Institute trio daughter sample (NA12878) sequenced in Genomics Core Facility, University of Bergen, Norway. Details regarding sample are given in CoriellIndex_S1.vcf.gz section.
 
 ## CoriellIndex_S1.vcf.gz
-Single nucleotide variants called using speedseq from Ashkenazim trio son sample sequenced in Genomics Core Facility, University of Bergen, Norway.
+Single nucleotide variants called using speedseq from Coriell Institute trio daughter sample (NA12878) sequenced in Genomics Core Facility, University of Bergen, Norway.
 
 ### Details for Coriell Ashkenazim trio samples:
-Ashkenazim father-mother-son trio from personal genome project:
+Pilot Genome (NA12878): 
 
-Candidate NIST RMs 8391 (son only) and 8392 (entire trio):
-
-www.tinyurl.com/giabajson
-
-www.tinyurl.com/giabajtrio
-
-NIST IDs: HG002/HG003/HG004 (Son/Father/Mother). PGP IDs: huAA53E0/hu6E4515/hu8E87A9 (Son/Father/Mother; For some phenotype information, see participant profiles at http://www.personalgenomes.org/harvard/data). Coriell IDs: GM24385/GM24149/GM24143 (Son/Father/Mother; cell lines and DNA available at https://catalog.coriell.org/). Source: http://jimb.stanford.edu/giab-resources/
+NIST RM 8398 (HG001): Available at http://tinyurl.com/giabpilot
+NIST ID: HG001 Link to NA12878 DNA and GM12878 cell line from Coriell: https://catalog.coriell.org/0/Sections/Search/Sample_Detail.aspx?Ref=NA12878&Product=DNA. Source: http://jimb.stanford.edu/giab-resources/
 
 ## ExAC.r0.3.1.sites.vep_chr19.vcf.gz
 File includes ExAC 0.3.1 variants (chromosome 19 only) extracted from original ExAC vcf:
 ftp://ftp.broadinstitute.org/pub/ExAC_release/release0.3.1/ExAC.r0.3.1.sites.vep.vcf.gz
 
 ## RareVariants_CoriellIndex_S1.txt
+Output of RareVariantVis for NA12878 sample. 
 
 ## RareVariants_Coriell_S2.txt
+Output of RareVariantVis for NA12891 sample - father of NA12878.
 
 ## RareVariants_Coriell_S3.txt
+Output of RareVariantVis for NA12892 sample - mother of NA12878.
 
 ## StructuralVariants_CoriellIndex_S1.txt
+Output of RareVariantVis for NA12878 sample - structural variants.
 
 ## StructuralVariants_Coriell_S2.txt
+Output of RareVariantVis for NA12891 sample - father of NA12878 - structural variants.
 
 ## StructuralVariants_Coriell_S3.txt
+Output of RareVariantVis for NA12892 sample - mother of NA12878 - structural variants.
 
 ## UCSC_hg19_refSeq_160702.txt
 
