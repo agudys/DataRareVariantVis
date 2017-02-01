@@ -7,7 +7,7 @@ Visualization of variants is performed in two ways - standard that outputs png f
 Here we present resources used by the package and explain how they were generated.
 
 
-All_20160601_chr19.vcf.gz
+## All_20160601_chr19.vcf.gz
 File is 
 
 
