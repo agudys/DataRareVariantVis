@@ -18,6 +18,8 @@ ftp://ftp.ncbi.nih.gov/snp/organisms/human_9606_b147_GRCh37p13/VCF/00-All.vcf.gz
 ## CoriellIndex_S1.vcf.gz
 
 ## ExAC.r0.3.1.sites.vep_chr19.vcf.gz
+File includes ExAC 0.3.1 variants (chromosome 19 only) extracted from original ExAC vcf:
+ftp://ftp.broadinstitute.org/pub/ExAC_release/release0.3.1/ExAC.r0.3.1.sites.vep.vcf.gz
 
 ## RareVariants_CoriellIndex_S1.txt
 
