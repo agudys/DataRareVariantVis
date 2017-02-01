@@ -2,21 +2,13 @@
 
 All_20160601_chr19.vcf.gz
 
-All_20160601_chr19.vcf.gz.tbi
-
 CentromeresHg19.txt
 
 CoriellIndex_S1.sv.vcf.gz
 
-CoriellIndex_S1.sv.vcf.gz.tbi
-
 CoriellIndex_S1.vcf.gz
 
-CoriellIndex_S1.vcf.gz.tbi
-
 ExAC.r0.3.1.sites.vep_chr19.vcf.gz
-
-ExAC.r0.3.1.sites.vep_chr19.vcf.gz.tbi
 
 RareVariants_CoriellIndex_S1.txt
 
