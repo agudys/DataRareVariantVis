@@ -8,7 +8,7 @@ Here we present resources used by the package and explain how they were generate
 
 
 ## All_20160601_chr19.vcf.gz
-File includes dbSNP 147 variants (chromosome 19 only) extracted from original dbSNP vcf.
+File includes dbSNP 147 variants (chromosome 19 only) extracted from original dbSNP vcf:
 ftp://ftp.ncbi.nih.gov/snp/organisms/human_9606_b147_GRCh37p13/VCF/00-All.vcf.gz
 
 ## CentromeresHg19.txt
