@@ -62,3 +62,6 @@ Illumina Nextera capture kit bed file which could be useful when running RareVar
 Source: http://support.illumina.com/downloads/nextera-rapid-capture-exome-v1-2-product-files.html
 
 ## uniprot-all.txt
+Uniprot annotation table for reviewed genes only. It includes following columns: 
+Entry	Status, Protein names, Gene names,	Annotation,	Tissue specificity,	Gene ontology (biological process),	Involvement in disease	Cross-reference (Orphanet) and	PubMed ID
+Source: http://www.uniprot.org/uniprot/?query=*&fil=reviewed%3Ayes+AND+organism%3A"Homo+sapiens+(Human)+[9606]"
