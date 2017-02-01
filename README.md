@@ -59,9 +59,9 @@ Output of RareVariantVis for NA12892 sample - mother of NA12878 - structural var
 
 ## nexterarapidcapture_exome_targetedregions_v1.2.bed
 Illumina Nextera capture kit bed file which could be useful when running RareVariantVis on exome data. Could be alternatively replaced with other transcriptome bed files, depending on user needs.
-Source: http://support.illumina.com/downloads/nextera-rapid-capture-exome-v1-2-product-files.html
+http://support.illumina.com/downloads/nextera-rapid-capture-exome-v1-2-product-files.html
 
 ## uniprot-all.txt
 Uniprot annotation table for reviewed genes only. It includes following columns: 
 Entry	Status, Protein names, Gene names,	Annotation,	Tissue specificity,	Gene ontology (biological process),	Involvement in disease	Cross-reference (Orphanet) and	PubMed ID.
-Source: http://www.uniprot.org/uniprot/?query=*&fil=reviewed%3Ayes+AND+organism%3A"Homo+sapiens+(Human)+[9606]"
+http://www.uniprot.org/uniprot/?query=*&fil=reviewed%3Ayes+AND+organism%3A"Homo+sapiens+(Human)+[9606]"
