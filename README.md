@@ -27,15 +27,10 @@ Ashkenazim father-mother-son trio from personal genome project:
 Candidate NIST RMs 8391 (son only) and 8392 (entire trio):
 
 www.tinyurl.com/giabajson
+
 www.tinyurl.com/giabajtrio
 
-NIST IDs: HG002/HG003/HG004 (Son/Father/Mother)
-
-PGP IDs: huAA53E0/hu6E4515/hu8E87A9 (Son/Father/Mother; For some phenotype information, see participant profiles at http://www.personalgenomes.org/harvard/data)
-
-Coriell IDs: GM24385/GM24149/GM24143 (Son/Father/Mother; cell lines and DNA available at https://catalog.coriell.org/)
-
-Source: http://jimb.stanford.edu/giab-resources/
+NIST IDs: HG002/HG003/HG004 (Son/Father/Mother). PGP IDs: huAA53E0/hu6E4515/hu8E87A9 (Son/Father/Mother; For some phenotype information, see participant profiles at http://www.personalgenomes.org/harvard/data). Coriell IDs: GM24385/GM24149/GM24143 (Son/Father/Mother; cell lines and DNA available at https://catalog.coriell.org/). Source: http://jimb.stanford.edu/giab-resources/
 
 ## ExAC.r0.3.1.sites.vep_chr19.vcf.gz
 File includes ExAC 0.3.1 variants (chromosome 19 only) extracted from original ExAC vcf:
