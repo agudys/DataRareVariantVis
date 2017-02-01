@@ -58,5 +58,7 @@ Output of RareVariantVis for NA12892 sample - mother of NA12878 - structural var
 ## UCSC_hg19_refSeq_160702.txt
 
 ## nexterarapidcapture_exome_targetedregions_v1.2.bed
+Illumina Nextera capture kit bed file which could be useful when running RareVariantVis on exome data. Could be alternatively replaced with other transcriptome bed files, depending on user needs.
+Source: http://support.illumina.com/downloads/nextera-rapid-capture-exome-v1-2-product-files.html
 
 ## uniprot-all.txt
