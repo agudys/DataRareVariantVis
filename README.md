@@ -12,6 +12,7 @@ File includes dbSNP 147 variants (chromosome 19 only) extracted from original db
 ftp://ftp.ncbi.nih.gov/snp/organisms/human_9606_b147_GRCh37p13/VCF/00-All.vcf.gz
 
 ## CentromeresHg19.txt
+Hg19 centromere positions downloaded from UCSC table browser - All Tables - table: gap
 
 ## CoriellIndex_S1.sv.vcf.gz
 
