@@ -21,11 +21,17 @@ Structural variants called using speedseq from Coriell Institute trio daughter s
 ## CoriellIndex_S1.vcf.gz
 Single nucleotide variants called using speedseq from Coriell Institute trio daughter sample (NA12878) sequenced in Genomics Core Facility, University of Bergen, Norway.
 
-### Details for Coriell Ashkenazim trio samples:
+### Details for Coriell trio samples:
 Pilot Genome (NA12878): 
 
 NIST RM 8398 (HG001): Available at http://tinyurl.com/giabpilot
 NIST ID: HG001 Link to NA12878 DNA and GM12878 cell line from Coriell: https://catalog.coriell.org/0/Sections/Search/Sample_Detail.aspx?Ref=NA12878&Product=DNA. Source: http://jimb.stanford.edu/giab-resources/
+
+Parents of NA12878:
+
+NA12891: https://catalog.coriell.org/0/Sections/Search/Sample_Detail.aspx?Ref=GM12891
+
+NA12892: https://catalog.coriell.org/0/sections/Search/Sample_Detail.aspx?Ref=GM12892
 
 ## ExAC.r0.3.1.sites.vep_chr19.vcf.gz
 File includes ExAC 0.3.1 variants (chromosome 19 only) extracted from original ExAC vcf:
