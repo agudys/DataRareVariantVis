@@ -12,11 +12,24 @@ File includes dbSNP 147 variants (chromosome 19 only) extracted from original db
 ftp://ftp.ncbi.nih.gov/snp/organisms/human_9606_b147_GRCh37p13/VCF/00-All.vcf.gz
 
 ## CentromeresHg19.txt
-Hg19 centromere positions downloaded from UCSC table browser - All Tables - table: gap
+Hg19 centromere positions downloaded from UCSC table browser - All Tables - table: gap - type: centromere
+https://genome.ucsc.edu/cgi-bin/hgTables
 
 ## CoriellIndex_S1.sv.vcf.gz
+Structural variants called using speedseq from Ashkenazim trio son sample sequenced in Genomics Core Facility, University of Bergen, Norway. Details regarding sample are given in CoriellIndex_S1.vcf.gz section.
 
 ## CoriellIndex_S1.vcf.gz
+Single nucleotide variants called using speedseq from Ashkenazim trio son sample sequenced in Genomics Core Facility, University of Bergen, Norway.
+
+#### Details for Coriell Ashkenazim trio samples:
+Ashkenazim father-mother-son trio from personal genome project:
+Candidate NIST RMs 8391 (son only) and 8392 (entire trio):
+www.tinyurl.com/giabajson
+www.tinyurl.com/giabajtrio
+NIST IDs: HG002/HG003/HG004 (Son/Father/Mother)
+PGP IDs: huAA53E0/hu6E4515/hu8E87A9 (Son/Father/Mother; For some phenotype information, see participant profiles at http://www.personalgenomes.org/harvard/data)
+Coriell IDs: GM24385/GM24149/GM24143 (Son/Father/Mother; cell lines and DNA available at https://catalog.coriell.org/)
+Source: http://jimb.stanford.edu/giab-resources/
 
 ## ExAC.r0.3.1.sites.vep_chr19.vcf.gz
 File includes ExAC 0.3.1 variants (chromosome 19 only) extracted from original ExAC vcf:
